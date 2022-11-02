@@ -1,6 +1,6 @@
 # Recommendation-System
 ## Goal: 
-Through `f(U,I,C) function` predicts the favorable rates and generate ranking list of users(`U`) give to items(`I`) under some context(`C`).
+Through `f(U,I,C) function` predicts the favorable rates and generate ranking recommendation list of items(`I`) give to user(`U`) under some context(`C`).
 
 ## Metholodolgy Graph
 ```mermaid
