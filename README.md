@@ -1,5 +1,6 @@
 # Recommendation-System
-## Goal: Suggest relevant items to users.
+## Goal: 
+Suggest relevant items to users.
 
 ## Metholodolgy Graph
 ```mermaid
