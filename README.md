@@ -1,6 +1,6 @@
 # Recommendation-System
 ## Goal: 
-Suggest relevant items to users.
+Through `f(U,I,C) function` predicts the favorable rates and generate ranking list of users(`U`) give to items(`I`) under some context(`C`).
 
 ## Metholodolgy Graph
 ```mermaid
@@ -27,8 +27,8 @@ graph LR
    - Drawbacks: Suffer more cold start problem than Content-Based Method.
    
 ### Content Based Method
-  - Intuition: Based on features explaining user-item interaction, regarded as classification(T/F,item-centred) or regression(rating,etc.,user-centred) problem.
-  - Mix Up: Two features factors (information about both user-centered and item-centered) can be used in a **neutral network architecture**. 
+  - Intuition: Based on features explaining user-item interaction, regarded as classification(T/F,item-centred) or regression(rating,etc.,user-centred) problem. For example, LS-PLM, Factorization Machine.
+  - Mix Up: Two features factors (information about both user-centered and item-centered) can be used in a **neutral network architecture**. For example, GBDT+LR
     
 ## Paper
 - [Collaborative Filtering Recommender Systems](https://files.grouplens.org/papers/FnT%20CF%20Recsys%20Survey.pdf)
