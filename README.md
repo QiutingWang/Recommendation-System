@@ -33,3 +33,5 @@ graph LR
 ## Paper
 - [Collaborative Filtering Recommender Systems](https://files.grouplens.org/papers/FnT%20CF%20Recsys%20Survey.pdf)
 - [Item-Based Collaborative Filtering Recommendation Algorithms](https://www.ra.ethz.ch/cdstore/www10/papers/pdf/p519.pdf)
+- [DeepFM:A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/pdf/1703.04247)
+- [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792)
