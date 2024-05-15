@@ -35,3 +35,6 @@ graph LR
 - [Item-Based Collaborative Filtering Recommendation Algorithms](https://www.ra.ethz.ch/cdstore/www10/papers/pdf/p519.pdf)
 - [DeepFM:A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/pdf/1703.04247)
 - [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792)
+- [A Survey on Postive and Unlabelled Learning](https://www.eecis.udel.edu/~vijay/fall13/snlp/lit-survey/PositiveLearning.pdf)
+- [PEBL: Positive Example Based Learning for Web Page
+Classification Using SVM](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=0d2d9049679c18d90a836d7d05bcf93d4ffe9842)
